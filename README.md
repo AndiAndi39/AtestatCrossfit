@@ -6,10 +6,10 @@ This is a project made in 2020 when I was in highschool. For sure have some  bug
 •	Windows 8/8.1/10
 •	XAMPP<br>
 •	XAML<br>
-•	.NET Core 3.1 
-•	Intel(R) Core(TM)  Intel(R) Core(TM) i5-8300H
-•	Internal memory: 2048 MB RAM
-•	External memory:  256 MB</p>
+•	.NET Core 3.1 <br>
+•	Intel(R) Core(TM)  Intel(R) Core(TM) i5-8300H<br>
+•	Internal memory: 2048 MB RAM<br>
+•	External memory:  256 MB</p><br>
 
 
 <h2>Note</h2>
