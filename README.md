@@ -3,9 +3,9 @@
 This is a project made in 2020 when I was in highschool. For sure have some  bugs ( maybe I will fix them, maybe:) )
 
 <h2>To run in the best conditions, the "Crossfit gym management" application needs the following software and hardware resources:</h2>
-<p>•	Windows 8/8.1/10
-•	XAMPP
-•	XAML
+•	Windows 8/8.1/10
+•	XAMPP<br>
+•	XAML<br>
 •	.NET Core 3.1 
 •	Intel(R) Core(TM)  Intel(R) Core(TM) i5-8300H
 •	Internal memory: 2048 MB RAM
