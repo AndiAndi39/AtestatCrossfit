@@ -11,10 +11,6 @@ This is a project made in 2020 when I was in highschool. For sure have some  bug
 •	Internal memory: 2048 MB RAM<br>
 •	External memory:  256 MB</p><br>
 
-
-<h2>Note</h2>
-The SQL code to create the database was not loaded!
-
 <h2>Screenshots:</h2>
 
 ![image](https://user-images.githubusercontent.com/57674281/223523080-21a45d75-4ad4-440f-ac32-ed31fb1d2fd5.png)
